@@ -1,0 +1,2 @@
+# pdmocrdataset-part2
+デジタル化資料OCRテキスト化事業において作成されたOCR学習用データセット
