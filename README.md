@@ -26,7 +26,7 @@
 次に挙げる2種類の形式で公開しています。
 
 
-### 1. NDLOCR XML形式(https://lab.ndl.go.jp/dataset/pdm_ocr_dataset/morpho/ndlocr_morphoxml.zip) (※ファイルサイズ:4.8 GB)
+### 1. NDLOCR XML形式(https://lab.ndl.go.jp/dataset/pdm_ocr_dataset/morpho/ndlocr_xml.zip) (※ファイルサイズ:4.8 GB)
 
 XMLフォーマットで作成したアノテーションデータ及びアノテーションデータに対応する画像データからなります。
 
