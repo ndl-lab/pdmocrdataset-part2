@@ -14,7 +14,7 @@
 
 ## 対応字種の範囲
 
-* [対応字種一覧(PDF 418KB)](https://lab.ndl.go.jp/dataset/r3ocrproject/ocrprogram/ocrprogram_web.pdf)
+* [対応字種一覧(PDF 418KB)](https://lab.ndl.go.jp/dataset/r3ocrproject/ocrprogram/ocrprogram_characters.pdf)
 
 なお、いずれの形式においても、文字コードの包摂を行っています。
 包摂前後の対応関係については次の対応表（タブ区切りテキストの左側が包摂前、右側が包摂後）をご確認ください。
